@@ -29,10 +29,7 @@ header {
   -ms-transition: 0.2s ease all;
   -o-transition: 0.2s ease all;
 }
-header::after {
-  content: "DEKA TUTORIAL";
-  font-size: 1.5em;
-  font-weight: bold;
+
 }
 .content {
   /* position: fixed; */
